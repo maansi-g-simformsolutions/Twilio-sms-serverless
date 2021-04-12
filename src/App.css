@@ -1,0 +1,13 @@
+body{
+  margin: auto;
+  margin-top: 4rem;
+  background: darkcyan;
+  color: white;
+}
+
+h2{
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  margin-bottom: 4rem;
+}
