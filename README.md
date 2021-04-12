@@ -1,5 +1,5 @@
 # Use Serverless Functions to Send an SMS with React, Twilio Programmable SMS, and Vercel
-![UI](https://i.imgur.com/cP85djM.png)
+![UI](https://prnt.sc/11amy9o)
 
 To see how to build the project yourself, check out the [blog post](https://www.twilio.com/blog/use-serverless-functions-send-sms-react-vercel-twilio).
 
